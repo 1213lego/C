@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf322c6c-c1a0-454b-afa8-d6ccdc2d5897" name="Default Changelist" comment="" />
+    <list default="true" id="bf322c6c-c1a0-454b-afa8-d6ccdc2d5897" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +66,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/libcs50" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -104,6 +107,17 @@
               <item name="C" type="b2602c69:ProjectViewProjectNode" />
               <item name="C" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="C" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C" type="462c0819:PsiDirectoryNode" />
+              <item name="Data-Structures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C" type="462c0819:PsiDirectoryNode" />
+              <item name="Data-Structures" type="462c0819:PsiDirectoryNode" />
+              <item name="DoubleLinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -111,6 +125,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -153,12 +168,12 @@
       <workItem from="1562189462453" duration="4586000" />
       <workItem from="1562194103429" duration="1139000" />
       <workItem from="1562198183679" duration="15841000" />
-      <workItem from="1562254752676" duration="1186000" />
+      <workItem from="1562254752676" duration="1490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22752000" />
+    <option name="totallyTimeSpent" value="23056000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,7 +192,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32901832" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23840345" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23840345" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34088457" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -185,7 +200,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.24271844" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32901832" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32901832" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="CMake" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />

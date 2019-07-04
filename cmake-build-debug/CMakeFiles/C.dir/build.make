@@ -57,42 +57,42 @@ include CMakeFiles/C.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C.dir/flags.make
 
-CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.o: CMakeFiles/C.dir/flags.make
-CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.o: ../Data-Structures/DoubleLinkedList/main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lego/Documentos/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.o   -c /home/lego/Documentos/C/Data-Structures/DoubleLinkedList/main.c
+CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.o: ../Data-Structures/GenericDoubleLinkedList/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lego/Documentos/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.o   -c /home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/main.c
 
-CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lego/Documentos/C/Data-Structures/DoubleLinkedList/main.c > CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.i
+CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/main.c > CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.i
 
-CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lego/Documentos/C/Data-Structures/DoubleLinkedList/main.c -o CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.s
+CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/main.c -o CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.s
 
-CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.o: CMakeFiles/C.dir/flags.make
-CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.o: ../Data-Structures/DoubleLinkedList/double-linked-list.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lego/Documentos/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.o   -c /home/lego/Documentos/C/Data-Structures/DoubleLinkedList/double-linked-list.c
+CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.o: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.o: ../Data-Structures/GenericDoubleLinkedList/double-linked-list.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lego/Documentos/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.o   -c /home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/double-linked-list.c
 
-CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lego/Documentos/C/Data-Structures/DoubleLinkedList/double-linked-list.c > CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.i
+CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/double-linked-list.c > CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.i
 
-CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lego/Documentos/C/Data-Structures/DoubleLinkedList/double-linked-list.c -o CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.s
+CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/double-linked-list.c -o CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.s
 
 # Object files for target C
 C_OBJECTS = \
-"CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.o" \
-"CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.o"
+"CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.o" \
+"CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.o"
 
 # External object files for target C
 C_EXTERNAL_OBJECTS =
 
-C : CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.o
-C : CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.o
+C : CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.o
+C : CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.o
 C : CMakeFiles/C.dir/build.make
 C : CMakeFiles/C.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lego/Documentos/C/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable C"

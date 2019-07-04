@@ -4,4 +4,4 @@ project(C C)
 set(CMAKE_C_STANDARD 99)
 
 add_executable(C
-        Data-Structures/DoubleLinkedList/main.c Data-Structures/DoubleLinkedList/double-linked-list.c Data-Structures/DoubleLinkedList/double-linked-list.h)
+        Data-Structures/GenericDoubleLinkedList/main.c Data-Structures/GenericDoubleLinkedList/double-linked-list.c Data-Structures/GenericDoubleLinkedList/double-linked-list.h)

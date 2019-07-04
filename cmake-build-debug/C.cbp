@@ -76,13 +76,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/lego/Documentos/C/Data-Structures/DoubleLinkedList/double-linked-list.c">
+		<Unit filename="/home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/double-linked-list.c">
 			<Option target="C"/>
 		</Unit>
-		<Unit filename="/home/lego/Documentos/C/Data-Structures/DoubleLinkedList/double-linked-list.h">
+		<Unit filename="/home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/double-linked-list.h">
 			<Option target="C"/>
 		</Unit>
-		<Unit filename="/home/lego/Documentos/C/Data-Structures/DoubleLinkedList/main.c">
+		<Unit filename="/home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/main.c">
 			<Option target="C"/>
 		</Unit>
 		<Unit filename="/home/lego/Documentos/C/CMakeLists.txt">

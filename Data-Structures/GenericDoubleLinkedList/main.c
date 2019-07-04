@@ -20,7 +20,7 @@ int main(){
     return 0;
 }
 void testInt(){
-    printf("Testing DoubleLinkedList with int\n");
+    printf("Testing GenericDoubleLinkedList with int\n");
     int element=9;
     DoubleLinkedList *list=createList(sizeof(element));
 
@@ -47,14 +47,14 @@ void testInt(){
     data=getAppend(list);
     printf("\tLast element %d\n",*data);
 
-    printf("\n\tIterating the DoubleLinkedList\n\t");
+    printf("\n\tIterating the GenericDoubleLinkedList\n\t");
     interateList(list,intIterator);
 }
 void intIterator(void *data){
     printf("%d ",*(int*)data);
 }
 void testStruct(){
-    printf("Testing DoubleLinkedList with struct\n");
+    printf("Testing GenericDoubleLinkedList with struct\n");
     DoubleLinkedList *list=createList(sizeof(Data));
     Data element;
     element.nombre="sdsd";
@@ -71,7 +71,7 @@ void structIterator(void *data){
     printf("Nombre: %s, edad: %d; ",dataStruct->nombre,dataStruct->edad);
 }
 void testChar(){
-    printf("Testing DoubleLinkedList with char\n");
+    printf("Testing GenericDoubleLinkedList with char\n");
     char *element="asd";
     DoubleLinkedList *list=createList(sizeof(element));
 
@@ -98,7 +98,7 @@ void testChar(){
     data=getAppend(list);
     printf("\tLast element %s\n",*(char **)data);
 
-    printf("\n\tIterating the DoubleLinkedList\n\t");
+    printf("\n\tIterating the GenericDoubleLinkedList\n\t");
     interateList(list,charIterator);
 }
 void charIterator(void *data){

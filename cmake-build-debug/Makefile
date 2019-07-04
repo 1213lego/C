@@ -123,59 +123,59 @@ C/fast:
 	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/build
 .PHONY : C/fast
 
-Data-Structures/DoubleLinkedList/double-linked-list.o: Data-Structures/DoubleLinkedList/double-linked-list.c.o
+Data-Structures/GenericDoubleLinkedList/double-linked-list.o: Data-Structures/GenericDoubleLinkedList/double-linked-list.c.o
 
-.PHONY : Data-Structures/DoubleLinkedList/double-linked-list.o
-
-# target to build an object file
-Data-Structures/DoubleLinkedList/double-linked-list.c.o:
-	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.o
-.PHONY : Data-Structures/DoubleLinkedList/double-linked-list.c.o
-
-Data-Structures/DoubleLinkedList/double-linked-list.i: Data-Structures/DoubleLinkedList/double-linked-list.c.i
-
-.PHONY : Data-Structures/DoubleLinkedList/double-linked-list.i
-
-# target to preprocess a source file
-Data-Structures/DoubleLinkedList/double-linked-list.c.i:
-	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.i
-.PHONY : Data-Structures/DoubleLinkedList/double-linked-list.c.i
-
-Data-Structures/DoubleLinkedList/double-linked-list.s: Data-Structures/DoubleLinkedList/double-linked-list.c.s
-
-.PHONY : Data-Structures/DoubleLinkedList/double-linked-list.s
-
-# target to generate assembly for a file
-Data-Structures/DoubleLinkedList/double-linked-list.c.s:
-	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.s
-.PHONY : Data-Structures/DoubleLinkedList/double-linked-list.c.s
-
-Data-Structures/DoubleLinkedList/main.o: Data-Structures/DoubleLinkedList/main.c.o
-
-.PHONY : Data-Structures/DoubleLinkedList/main.o
+.PHONY : Data-Structures/GenericDoubleLinkedList/double-linked-list.o
 
 # target to build an object file
-Data-Structures/DoubleLinkedList/main.c.o:
-	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.o
-.PHONY : Data-Structures/DoubleLinkedList/main.c.o
+Data-Structures/GenericDoubleLinkedList/double-linked-list.c.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.o
+.PHONY : Data-Structures/GenericDoubleLinkedList/double-linked-list.c.o
 
-Data-Structures/DoubleLinkedList/main.i: Data-Structures/DoubleLinkedList/main.c.i
+Data-Structures/GenericDoubleLinkedList/double-linked-list.i: Data-Structures/GenericDoubleLinkedList/double-linked-list.c.i
 
-.PHONY : Data-Structures/DoubleLinkedList/main.i
+.PHONY : Data-Structures/GenericDoubleLinkedList/double-linked-list.i
 
 # target to preprocess a source file
-Data-Structures/DoubleLinkedList/main.c.i:
-	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.i
-.PHONY : Data-Structures/DoubleLinkedList/main.c.i
+Data-Structures/GenericDoubleLinkedList/double-linked-list.c.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.i
+.PHONY : Data-Structures/GenericDoubleLinkedList/double-linked-list.c.i
 
-Data-Structures/DoubleLinkedList/main.s: Data-Structures/DoubleLinkedList/main.c.s
+Data-Structures/GenericDoubleLinkedList/double-linked-list.s: Data-Structures/GenericDoubleLinkedList/double-linked-list.c.s
 
-.PHONY : Data-Structures/DoubleLinkedList/main.s
+.PHONY : Data-Structures/GenericDoubleLinkedList/double-linked-list.s
 
 # target to generate assembly for a file
-Data-Structures/DoubleLinkedList/main.c.s:
-	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.s
-.PHONY : Data-Structures/DoubleLinkedList/main.c.s
+Data-Structures/GenericDoubleLinkedList/double-linked-list.c.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.s
+.PHONY : Data-Structures/GenericDoubleLinkedList/double-linked-list.c.s
+
+Data-Structures/GenericDoubleLinkedList/main.o: Data-Structures/GenericDoubleLinkedList/main.c.o
+
+.PHONY : Data-Structures/GenericDoubleLinkedList/main.o
+
+# target to build an object file
+Data-Structures/GenericDoubleLinkedList/main.c.o:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.o
+.PHONY : Data-Structures/GenericDoubleLinkedList/main.c.o
+
+Data-Structures/GenericDoubleLinkedList/main.i: Data-Structures/GenericDoubleLinkedList/main.c.i
+
+.PHONY : Data-Structures/GenericDoubleLinkedList/main.i
+
+# target to preprocess a source file
+Data-Structures/GenericDoubleLinkedList/main.c.i:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.i
+.PHONY : Data-Structures/GenericDoubleLinkedList/main.c.i
+
+Data-Structures/GenericDoubleLinkedList/main.s: Data-Structures/GenericDoubleLinkedList/main.c.s
+
+.PHONY : Data-Structures/GenericDoubleLinkedList/main.s
+
+# target to generate assembly for a file
+Data-Structures/GenericDoubleLinkedList/main.c.s:
+	$(MAKE) -f CMakeFiles/C.dir/build.make CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.s
+.PHONY : Data-Structures/GenericDoubleLinkedList/main.c.s
 
 # Help Target
 help:
@@ -186,12 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... C"
 	@echo "... edit_cache"
-	@echo "... Data-Structures/DoubleLinkedList/double-linked-list.o"
-	@echo "... Data-Structures/DoubleLinkedList/double-linked-list.i"
-	@echo "... Data-Structures/DoubleLinkedList/double-linked-list.s"
-	@echo "... Data-Structures/DoubleLinkedList/main.o"
-	@echo "... Data-Structures/DoubleLinkedList/main.i"
-	@echo "... Data-Structures/DoubleLinkedList/main.s"
+	@echo "... Data-Structures/GenericDoubleLinkedList/double-linked-list.o"
+	@echo "... Data-Structures/GenericDoubleLinkedList/double-linked-list.i"
+	@echo "... Data-Structures/GenericDoubleLinkedList/double-linked-list.s"
+	@echo "... Data-Structures/GenericDoubleLinkedList/main.o"
+	@echo "... Data-Structures/GenericDoubleLinkedList/main.i"
+	@echo "... Data-Structures/GenericDoubleLinkedList/main.s"
 .PHONY : help
 
 

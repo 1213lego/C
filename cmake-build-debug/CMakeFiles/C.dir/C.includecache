@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/lego/Documentos/C/Data-Structures/DoubleLinkedList/double-linked-list.c
+/home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/double-linked-list.c
 double-linked-list.h
-/home/lego/Documentos/C/Data-Structures/DoubleLinkedList/double-linked-list.h
+/home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/double-linked-list.h
 stdlib.h
 -
 
-/home/lego/Documentos/C/Data-Structures/DoubleLinkedList/double-linked-list.h
+/home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/double-linked-list.h
 stdbool.h
 -
 
-/home/lego/Documentos/C/Data-Structures/DoubleLinkedList/main.c
+/home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/main.c
 stdio.h
 -
 double-linked-list.h
-/home/lego/Documentos/C/Data-Structures/DoubleLinkedList/double-linked-list.h
+/home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/double-linked-list.h
 

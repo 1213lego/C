@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/lego/Documentos/C/Data-Structures/DoubleLinkedList/double-linked-list.c" "/home/lego/Documentos/C/cmake-build-debug/CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/double-linked-list.c.o"
-  "/home/lego/Documentos/C/Data-Structures/DoubleLinkedList/main.c" "/home/lego/Documentos/C/cmake-build-debug/CMakeFiles/C.dir/Data-Structures/DoubleLinkedList/main.c.o"
+  "/home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/double-linked-list.c" "/home/lego/Documentos/C/cmake-build-debug/CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/double-linked-list.c.o"
+  "/home/lego/Documentos/C/Data-Structures/GenericDoubleLinkedList/main.c" "/home/lego/Documentos/C/cmake-build-debug/CMakeFiles/C.dir/Data-Structures/GenericDoubleLinkedList/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
